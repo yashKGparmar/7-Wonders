@@ -1,0 +1,56 @@
+
+
+
+h1{
+    display: inline-block;
+    /* align-items: center;
+    justify-content: center; */
+    /* text-align: center; */
+    border-bottom: 2px solid red;
+    text-decoration: wavy;
+    margin-left: 34rem;
+    margin-top: 50px;
+}
+
+
+
+table, th, td{
+    border: 1px solid rgb(181, 181, 181);
+    border-collapse: collapse;
+    /* border: transparent; */
+    
+}
+a{
+    transition: all 2s ease-out;
+    align-items: center;
+    justify-content: center;
+    display: flex;   
+}
+a:hover{
+    text-decoration: none;
+    border-radius: 0px 10px 0px 10px ;
+}
+
+table, th, td, img{
+    height: 52vh;
+}
+
+.anchore-0:hover{
+    background-color: rgb(54, 100, 192);
+    color: white;
+}
+.anchore-1:hover{
+    background-color: yellow;
+}
+
+.anchore-2:hover{
+    background-color: lightskyblue;
+}
+.anchore-3:hover{
+    background-color: blue;
+    color: white;
+}
+.anchore-4:hover{
+    background-color: red;
+}
+

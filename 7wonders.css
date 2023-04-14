@@ -1,0 +1,317 @@
+
+#img-prime2{
+    position: absolute;
+    height: 38px;
+    width: 58px;
+    z-index: 0;
+    margin: 5px 23px;
+    transform: none;
+}
+
+.nav {
+    background-color: black;
+    color: white;
+    width: 100%;
+    /* position: sticky; */
+    border-radius: 13px;
+    /* position: fixed;
+    top: 0px; */
+
+}
+
+.wonders-class{
+    text-decoration: none;
+}
+
+
+img {
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+
+    /* position: relative; */
+    z-index: -1;
+    /* opacity: 1; */
+    border: 2px solid black;
+    /* border-top: 260px; */
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+}
+
+::marker{
+    color: black;
+}
+::selection{
+  color: #c77bff;
+  background-color: aliceblue;
+}
+
+.li7 {
+    background-color: black;
+    cursor: e-resize;
+}
+
+#liid-1 {
+
+    color: red;
+}
+
+#liid-2 {
+    color: orange;
+}
+
+#liid-3 {
+    color: yellow;
+}
+
+#liid-4 {
+    color: green;
+}
+
+#liid-5 {
+    color: #cbcbff;
+}
+
+#liid-6 {
+    color: #c77bff;
+}
+
+#liid-7 {
+    color: violet;
+}
+
+#liid-1:hover {
+    transition: 2s;
+    margin-left: 20px;
+
+}
+
+#liid-2:hover {
+    transition: 2s;
+    margin-left: 20px;
+
+}
+
+#liid-3:hover {
+    transition: 2s;
+    margin-left: 20px;
+
+}
+
+#liid-4:hover {
+    transition: 2s;
+    margin-left: 20px;
+
+}
+
+#liid-5:hover {
+    transition: 2s;
+    margin-left: 20px;
+
+}
+
+#liid-6:hover {
+    transition: 2s;
+    margin-left: 20px;
+
+}
+
+#liid-7:hover {
+    transition: 2s;
+    margin-left: 20px;
+
+}
+
+#liid-1:hover {
+    transition: 2s;
+    margin-left: 20px;
+
+}
+
+img:hover {
+    transform: scale(1.1);
+    transition-duration: 4s;
+}
+
+.img2 {
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    /* transform: scale(1);
+    transition-duration: 4s; */
+    /* position: relative; */
+    z-index: -1;
+    opacity: 1;
+    border: 2px solid black;
+    /* border-top: 260px; */
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.img2:hover {
+    border-radius: 10px;
+    transform: scale(1.1);
+    transition-duration: 4s;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+
+.Navigation {
+
+    height: 20px;
+    width: auto;
+}
+
+/* .container:hover{
+        position: sticky;
+        opacity: 1;
+        transform: scale(2);
+        
+    } */
+
+/* .container:hover{
+        background-image: url(tajmahel.jpg);
+        transform: scale(1);
+        transition-duration: 4s;
+    } */
+b {
+    text-shadow: 0px 1px 20px rgb(202, 202, 210);
+}
+
+.link-1 {
+    text-decoration: none;
+    color: pink;
+    background-color: black;
+    border-radius: 4px;
+}
+
+p {
+    text-indent: 20px;
+    text-transform: capitalize;
+    text-align: justify;
+}
+
+p:active  {
+    color: rgb(34, 34, 3);
+    font-size: 20px;
+    transition-duration: 2s;
+}
+
+#img3 {
+    margin-top: 4rem;
+}
+
+#img5 {
+    margin-top: 4rem;
+}
+
+#img6 {
+    margin-top: 4rem;
+}
+
+
+
+ul {
+    border: 2px solid rgb(0, 0, 0);
+    height: 2rem;
+    text-align: center;
+    padding-top: 1rem;
+    border-radius: 10px;
+  
+}
+
+.li-1 {
+    display: inline;
+    margin: 1rem;
+    cursor: pointer;
+    /* position: fixed; */
+    /* float: right; */
+}
+
+.li-1:hover {
+    color: yellow;
+    font-size: 26px;
+    transition-duration: 2s;
+}
+
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li a{
+    color: white;
+    text-decoration: none;
+
+}
+
+li a:hover {
+    color: yellow;
+    text-decoration: none;
+    font-style: italic;
+    text-decoration: overline;
+}
+
+/* form section  */
+.submit{
+    position: absolute;
+    margin-left: 20vh;
+    margin-top: 6px;
+    background-color: white;
+    border: none;
+}
+.submit:hover{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    background-color: orange;
+    border-radius: 10px;
+    transition: 2s;
+    
+    /* border-width: 1vh; */
+
+}
+textarea{
+    box-shadow: 4px 4px 4px purple;
+}
+
+.fname-1{
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    outline-style: none;
+}
+.femail-1{
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    outline-style: none;
+}
+
+/* .fname-1:hover{
+
+}
+
+.femail-1:hover{
+   
+} */
+.end {
+    text-align: center;
+    padding-bottom: 1px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    
+   
+}
+
+.end-anchore{
+    text-decoration: none;
+    color: goldenrod;
+    
+}
+
+#End-of-para{
+    text-align: center;
+    margin-left: 35rem;
+}
+
